@@ -1,0 +1,13 @@
+[
+    {
+        "name" : "Johan Avendaño",
+        "email" : "jmavendano494@misena.edu.co",
+        "password" : 123456
+    },
+
+    {
+        "name" : "Santiago Carreño",
+        "email" : "sacarreño494@misena.edu.co",
+        "password" : 123456
+    }
+]
