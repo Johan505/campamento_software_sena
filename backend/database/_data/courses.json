@@ -1,0 +1,19 @@
+[
+    {
+        "title":"Desarrollo Front-End",
+        "description" : "desarrollo para juniors",
+        "weeks" : 20,
+        "enroll_cost" : 2000,
+        "minimum_skill" : "junior",
+        "bootcamp_id" : 1
+    },
+
+    {
+        "title":"Desarrollo Back-End",
+        "description" : "desarrollo back-end para juniors",
+        "weeks" : 20,
+        "enroll_cost" : 3000,
+        "minimum_skill" : "junior",
+        "bootcamp_id" : 2
+    }
+]

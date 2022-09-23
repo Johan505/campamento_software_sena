@@ -19,7 +19,7 @@ return new class extends Migration
             $table->text('description');
             $table->bigInteger('weeks');
             $table->double('enroll_cost', 2, 1);
-            $table->string('minimunm_skill', 50);
+            $table->string('minimum_skill', 50);
             $table->timestamps();
         });
     }
